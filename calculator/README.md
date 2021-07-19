@@ -10,6 +10,4 @@
 
     4.公倍數
 
-- link
-    - [scratch](https://scratch.mit.edu/projects/456510868/)
-    - [html(推薦，需要需下載)](因數倍數計算機.html)
+- [開始使用](因數倍數計算機.html)
