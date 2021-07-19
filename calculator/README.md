@@ -10,4 +10,4 @@
 
     4.公倍數
 
-- [開始使用](calculator1.html)
+#### [開始使用](calculator1.html)
