@@ -1,0 +1,24 @@
+.title {
+	background-color: Yellow;
+	color: Black;
+	font-weight: 900;
+}
+.rotateleft {
+	transform: rotate(-5deg)
+}
+.rotateright {
+	transform: rotate(5deg)
+}
+.skewleft {
+	transform: rotate(-10deg)
+}
+.rskewright {
+	transform: rotate(10deg)
+}
+.center{
+    width: 120px;
+    height: 100px;
+    line-height: 70px;
+    max-width: 100%;
+    text-align: center
+}
