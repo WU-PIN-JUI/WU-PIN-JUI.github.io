@@ -1,6 +1,5 @@
 .title {
-	background-color: Yellow;
-	color: Black;
+	color: #33d6b6;
 	font-weight: 900;
 }
 .rotateleft {
@@ -21,4 +20,17 @@
     line-height: 70px;
     max-width: 100%;
     text-align: center
+}
+ul.nodisplay{
+	display: none;
+}
+div.display:hover ul.nodisplay {
+	display: block;
+	color: Black;
+}
+div.c1{
+	color: Black;
+}
+div.c2:hover div.c1{
+	color: Blue;
 }
