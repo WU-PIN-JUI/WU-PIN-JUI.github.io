@@ -1,3 +1,7 @@
+.bg{
+	background-image: url(img/bg.jpg);
+	background-position: center;
+}
 .title {
 	color: #33d6b6;
 	font-weight: 900;
@@ -12,7 +16,7 @@
 	transform: rotate(-10deg)
 }
 .rskewright {
-	transform: rotate(10deg)
+	transform: rota<font color="#9e151b" size=6>te(10deg)
 }
 .center{
     width: 120px;
@@ -40,4 +44,18 @@ div.c2:hover div.c1{
 }
 .float_right{
 	float: right;
+}
+.cursor_help{
+	cursor: help;
+}
+li.line{
+	display: inline;
+	background-color: #128fe3;
+}
+li.line:hover {
+	background-color: #23597d;
+}
+.active {
+	display: inline;
+	background-color: #ffffff;
 }
