@@ -23,6 +23,7 @@
 }
 ul.nodisplay{
 	display: none;
+	margin-left:500px;
 }
 div.display:hover ul.nodisplay {
 	display: block;
@@ -33,4 +34,10 @@ div.c1{
 }
 div.c2:hover div.c1{
 	color: Blue;
+}
+.float_left{
+	float: left;
+}
+.float_right{
+	float: right;
 }
