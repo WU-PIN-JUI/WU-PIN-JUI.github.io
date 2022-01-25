@@ -48,14 +48,28 @@ div.c2:hover div.c1{
 .cursor_help{
 	cursor: help;
 }
+ul.line{
+	background-color: #6e6e6e;
+	position: -webkit-sticky; /* Safari */
+	position: sticky;
+	top: 0;
+}
 li.line{
 	display: inline;
-	background-color: #128fe3;
+	background-color: #6e6e6e;
+	color: black;
+	border-right: 1px solid #bbb;
 }
 li.line:hover {
-	background-color: #23597d;
+	background-color: #128fe3;
+	color: black
 }
-.active {
+li.active {
 	display: inline;
-	background-color: #ffffff;
+	background-color: #000000;
+	color: white;
+	border-right: 1px solid #bbb;
+}
+li a {
+	color: black;
 }
